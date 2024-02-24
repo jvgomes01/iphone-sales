@@ -134,8 +134,8 @@ body {
 }
 
 #main img {
+    max-width: 50%;
     width: 60%;
-    margin: auto 0;
     
 }
 
@@ -172,7 +172,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: rgb(32, 108, 170);
+    background-color: #43a1ff;
     padding: 7px;
     border-radius: 10px;
     width: 100px;
